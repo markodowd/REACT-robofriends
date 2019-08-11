@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/robofriends/static/css/main.5dafb77b.chunk.css",
-    "main.js": "/robofriends/static/js/main.9e687679.chunk.js",
-    "main.js.map": "/robofriends/static/js/main.9e687679.chunk.js.map",
-    "runtime~main.js": "/robofriends/static/js/runtime~main.fb41d28d.js",
-    "runtime~main.js.map": "/robofriends/static/js/runtime~main.fb41d28d.js.map",
-    "static/css/2.31dafeb2.chunk.css": "/robofriends/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.9bb725c1.chunk.js": "/robofriends/static/js/2.9bb725c1.chunk.js",
-    "static/js/2.9bb725c1.chunk.js.map": "/robofriends/static/js/2.9bb725c1.chunk.js.map",
-    "index.html": "/robofriends/index.html",
-    "precache-manifest.4472f1580864fe435d976779b07b6005.js": "/robofriends/precache-manifest.4472f1580864fe435d976779b07b6005.js",
-    "service-worker.js": "/robofriends/service-worker.js",
-    "static/css/2.31dafeb2.chunk.css.map": "/robofriends/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.5dafb77b.chunk.css.map": "/robofriends/static/css/main.5dafb77b.chunk.css.map",
-    "static/media/App.css": "/robofriends/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/REACT-robofriends/static/css/main.dc44438f.chunk.css",
+    "main.js": "/REACT-robofriends/static/js/main.146549b3.chunk.js",
+    "main.js.map": "/REACT-robofriends/static/js/main.146549b3.chunk.js.map",
+    "runtime~main.js": "/REACT-robofriends/static/js/runtime~main.bf89f9d5.js",
+    "runtime~main.js.map": "/REACT-robofriends/static/js/runtime~main.bf89f9d5.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/REACT-robofriends/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.7da31933.chunk.js": "/REACT-robofriends/static/js/2.7da31933.chunk.js",
+    "static/js/2.7da31933.chunk.js.map": "/REACT-robofriends/static/js/2.7da31933.chunk.js.map",
+    "index.html": "/REACT-robofriends/index.html",
+    "precache-manifest.14770cd8d3fa2e7777cd5001fbea46e8.js": "/REACT-robofriends/precache-manifest.14770cd8d3fa2e7777cd5001fbea46e8.js",
+    "service-worker.js": "/REACT-robofriends/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/REACT-robofriends/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.dc44438f.chunk.css.map": "/REACT-robofriends/static/css/main.dc44438f.chunk.css.map",
+    "static/media/App.css": "/REACT-robofriends/static/media/SEGA.12a3db8b.woff"
   }
 }
